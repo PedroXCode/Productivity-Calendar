@@ -8,6 +8,37 @@ Una app de escritorio (Windows) para **seguimiento de productividad** usando:
 - 📈 Gráficas: línea diaria (mes visible) y barras por mes (año actual)
 - 🌙 Modo claro/oscuro
 
+---
+
+## 📌 Sección: Versión
+
+
+
+```md
+##  Versión 
+
+**Versión actual:** `v0.2.0`
+
+### Estado
+- 🟢 Estable
+- 🔧 En desarrollo activo
+
+### Características incluidas
+- Calendario interactivo por colores
+- Registro de productividad (%)
+- Metas semanal y mensual
+- Estadísticas automáticas
+- Heatmap anual estilo GitHub
+- Gráficas de productividad
+- Modo claro / oscuro
+- Persistencia local con SQLite
+
+### Próxima versión (roadmap)
+- Optimización de rendimiento (v0.2.1)
+- Exportar datos (CSV / Excel)
+- Notas por día
+
+
 > Los datos se guardan localmente en SQLite (archivo `productivity_calendar.db`).
 
 ---

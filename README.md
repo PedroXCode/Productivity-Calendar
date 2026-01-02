@@ -18,6 +18,22 @@ Una app de escritorio (Windows) para **seguimiento de productividad** usando:
 
 ---
 
+## 🖥️ Compatibilidad
+
+Este proyecto es **multiplataforma** y funciona en los siguientes sistemas:
+
+### Sistemas Operativos
+- ✅ **Windows 10 / 11**
+- ✅ **Linux** (Ubuntu, Debian, Kali Linux, Fedora, Arch)
+- ⚠️ **macOS** (funciona, pero no probado oficialmente)
+
+### Notas
+- En Linux puede ser necesario instalar Tkinter manualmente:
+  ```bash
+  sudo apt install python3-tk
+
+---
+
 ## Ejecutar (rápido)
 ### Opción A: con script
 - Doble clic: `scripts/run.bat`

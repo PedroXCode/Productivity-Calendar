@@ -1,0 +1,7 @@
+[project]
+name = "productivity-calendar"
+version = "0.2.0"
+description = "Windows productivity calendar with colors, % tracking, goals, heatmap and charts."
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "MIT"}

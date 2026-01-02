@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+dist/
+build/
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+productivity_calendar.db
